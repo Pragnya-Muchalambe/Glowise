@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "concern": "Acne",
+    "title": "Pure Aloe Vera Gel",
+    "description": "Apply fresh aloe vera gel to soothe inflamed acne.",
+    "steps": [
+      "Wash your face with a gentle cleanser.",
+      "Apply fresh aloe vera gel.",
+      "Leave for 20 minutes.",
+      "Rinse with cool water."
+    ],
+    "frequency": "3-4 times per week",
+    "time_required": "20 minutes",
+    "precautions": "Patch test before use.",
+    "skin_types": ["Oily", "Combination", "Sensitive"]
+  },
+  {
+    "id": 2,
+    "concern": "Acne",
+    "title": "Honey Spot Treatment",
+    "description": "Raw honey helps calm acne due to its antibacterial properties.",
+    "steps": [
+      "Apply raw honey on affected areas.",
+      "Leave for 15 minutes.",
+      "Wash with lukewarm water."
+    ],
+    "frequency": "2-3 times per week",
+    "time_required": "15 minutes",
+    "precautions": "Avoid if allergic to honey.",
+    "skin_types": ["All"]
+  },
+  {
+    "id": 3,
+    "concern": "Pigmentation",
+    "title": "Rice Water Toner",
+    "description": "Rice water may help brighten dull skin over time.",
+    "steps": [
+      "Soak rice in water for 30 minutes.",
+      "Strain the water.",
+      "Apply using cotton.",
+      "Leave overnight if comfortable."
+    ],
+    "frequency": "Daily",
+    "time_required": "5 minutes",
+    "precautions": "Store in refrigerator for up to 3 days.",
+    "skin_types": ["All"]
+  },
+  {
+    "id": 4,
+    "concern": "Pigmentation",
+    "title": "Licorice Face Pack",
+    "description": "Licorice root is known for brightening uneven skin tone.",
+    "steps": [
+      "Mix licorice powder with rose water.",
+      "Apply evenly.",
+      "Leave for 15 minutes.",
+      "Rinse gently."
+    ],
+    "frequency": "Twice a week",
+    "time_required": "20 minutes",
+    "precautions": "Patch test first.",
+    "skin_types": ["All"]
+  },
+  {
+    "id": 5,
+    "concern": "Dark Circles",
+    "title": "Cold Cucumber Slices",
+    "description": "Helps reduce puffiness and refresh tired eyes.",
+    "steps": [
+      "Refrigerate cucumber slices.",
+      "Place over closed eyes.",
+      "Relax for 15 minutes."
+    ],
+    "frequency": "Daily",
+    "time_required": "15 minutes",
+    "precautions": "Use clean slices.",
+    "skin_types": ["All"]
+  },
+  {
+    "id": 6,
+    "concern": "Dark Circles",
+    "title": "Cold Green Tea Bags",
+    "description": "The caffeine in green tea may reduce puffiness.",
+    "steps": [
+      "Brew green tea bags.",
+      "Cool them in the refrigerator.",
+      "Place over eyes for 10 minutes."
+    ],
+    "frequency": "Daily",
+    "time_required": "10 minutes",
+    "precautions": "Do not use hot tea bags.",
+    "skin_types": ["All"]
+  },
+  {
+    "id": 7,
+    "concern": "Dryness",
+    "title": "Honey and Yogurt Mask",
+    "description": "Provides deep hydration.",
+    "steps": [
+      "Mix honey and yogurt.",
+      "Apply evenly.",
+      "Leave for 20 minutes.",
+      "Wash gently."
+    ],
+    "frequency": "Twice weekly",
+    "time_required": "20 minutes",
+    "precautions": "Avoid if dairy sensitive.",
+    "skin_types": ["Dry", "Normal"]
+  },
+  {
+    "id": 8,
+    "concern": "Oiliness",
+    "title": "Green Tea Toner",
+    "description": "Helps control excess oil.",
+    "steps": [
+      "Prepare green tea.",
+      "Allow it to cool.",
+      "Apply with cotton."
+    ],
+    "frequency": "Daily",
+    "time_required": "5 minutes",
+    "precautions": "Store refrigerated.",
+    "skin_types": ["Oily", "Combination"]
+  },
+  {
+    "id": 9,
+    "concern": "Redness",
+    "title": "Oatmeal Mask",
+    "description": "Calms irritated skin.",
+    "steps": [
+      "Mix oatmeal with water.",
+      "Apply gently.",
+      "Leave for 15 minutes.",
+      "Wash off."
+    ],
+    "frequency": "Twice weekly",
+    "time_required": "15 minutes",
+    "precautions": "Do not scrub while removing.",
+    "skin_types": ["Sensitive", "Dry"]
+  },
+  {
+    "id": 10,
+    "concern": "Sensitivity",
+    "title": "Chamomile Compress",
+    "description": "Helps soothe sensitive skin.",
+    "steps": [
+      "Brew chamomile tea.",
+      "Cool completely.",
+      "Soak a cloth.",
+      "Apply for 10 minutes."
+    ],
+    "frequency": "As needed",
+    "time_required": "10 minutes",
+    "precautions": "Avoid if allergic to chamomile.",
+    "skin_types": ["Sensitive"]
+  }
+]

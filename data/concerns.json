@@ -1,0 +1,178 @@
+{
+  "acne": {
+    "display_name": "Acne",
+    "description": "Clogged pores, pimples, whiteheads or blackheads.",
+    "ingredients_to_use": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Benzoyl Peroxide"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy Oils",
+      "Comedogenic Creams"
+    ],
+    "routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Niacinamide Serum",
+        "Oil-Free Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Salicylic Acid Serum",
+        "Lightweight Moisturizer"
+      ]
+    }
+  },
+
+  "pigmentation": {
+    "display_name": "Pigmentation",
+    "description": "Uneven skin tone or dark spots.",
+    "ingredients_to_use": [
+      "Vitamin C",
+      "Alpha Arbutin",
+      "Tranexamic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh Scrubs"
+    ],
+    "routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Vitamin C Serum",
+        "Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Alpha Arbutin Serum",
+        "Moisturizer"
+      ]
+    }
+  },
+
+  "dark circles": {
+    "display_name": "Dark Circles",
+    "description": "Darkness around the eyes.",
+    "ingredients_to_use": [
+      "Caffeine",
+      "Vitamin K",
+      "Peptides"
+    ],
+    "ingredients_to_avoid": [],
+    "routine": {
+      "morning": [
+        "Eye Cream",
+        "Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Eye Cream",
+        "Hydrating Moisturizer"
+      ]
+    }
+  },
+
+  "dryness": {
+    "display_name": "Dry Skin",
+    "description": "Skin lacks moisture.",
+    "ingredients_to_use": [
+      "Ceramides",
+      "Hyaluronic Acid",
+      "Glycerin"
+    ],
+    "ingredients_to_avoid": [
+      "Alcohol Based Products"
+    ],
+    "routine": {
+      "morning": [
+        "Hydrating Cleanser",
+        "Hyaluronic Acid",
+        "Rich Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Hydrating Cleanser",
+        "Ceramide Moisturizer"
+      ]
+    }
+  },
+
+  "oiliness": {
+    "display_name": "Oily Skin",
+    "description": "Excess sebum production.",
+    "ingredients_to_use": [
+      "Niacinamide",
+      "Salicylic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy Oils"
+    ],
+    "routine": {
+      "morning": [
+        "Foaming Cleanser",
+        "Niacinamide Serum",
+        "Gel Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Foaming Cleanser",
+        "Salicylic Acid",
+        "Gel Moisturizer"
+      ]
+    }
+  },
+
+  "redness": {
+    "display_name": "Redness",
+    "description": "Visible facial redness or irritation.",
+    "ingredients_to_use": [
+      "Centella Asiatica",
+      "Panthenol",
+      "Ceramides"
+    ],
+    "ingredients_to_avoid": [
+      "Fragrance",
+      "Alcohol"
+    ],
+    "routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Centella Serum",
+        "Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Barrier Repair Cream"
+      ]
+    }
+  },
+
+  "sensitivity": {
+    "display_name": "Sensitive Skin",
+    "description": "Skin easily reacts to products.",
+    "ingredients_to_use": [
+      "Ceramides",
+      "Panthenol",
+      "Centella"
+    ],
+    "ingredients_to_avoid": [
+      "Fragrance",
+      "Essential Oils",
+      "Alcohol"
+    ],
+    "routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Barrier Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Barrier Moisturizer"
+      ]
+    }
+  }
+}

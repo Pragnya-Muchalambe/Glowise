@@ -1,0 +1,7 @@
+Flask
+google-genai
+python-dotenv
+Pillow
+requests
+Werkzeug
+gunicorn
